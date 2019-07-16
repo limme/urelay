@@ -1,6 +1,7 @@
-# udelay
+# urelay
 usb relay by uart 
-
+```
+usb_relay.sh -h
 usag:
 	-u	 power up
 	-d	 power down
@@ -9,3 +10,7 @@ usag:
 	-ud	 power up then power down
 	-du	 power down then power up
  	-dut 2	 power down and delay 2s then power up
+```
+![Product Pictures](https://github.com/limme/urelay/blob/master/1.jpg)
+![Connect Pictures](https://github.com/limme/urelay/blob/master/2.jpg)
+![Protocol Pictures](https://github.com/limme/urelay/blob/master/3.jpg)
